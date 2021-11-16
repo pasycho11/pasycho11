@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aslam</h1>
-<h3 align="center">Ethical hacker and Artificial engineer</h3>
+<h3 align="center">Ethical hacker</h3>
 
-- 🌱 I’m currently learning **Ethical hacking diploma And Artificial intelligence diploma**
+- 🌱 I’m currently learning **Ethical hacking diploma**
 
-- 💬 Ask me about **You can ask any thing especially you can ask about Ethical hacking and Artificial intelligence**
+- 💬 Ask me about **You can ask any thing especially you can ask about Ethical hacking**
 
 - 📫 How to reach me **amuhammadaslam823@gmail.com**
 
