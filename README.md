@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aslam</h1>
 <h3 align="center">Ethical hacker</h3>
 
-- 🌱 I’m currently learning **Ethical hacking diploma**
-
 - 💬 Ask me about **You can ask any thing especially you can ask about Ethical hacking**
 
 - 📫 How to reach me **amuhammadaslam823@gmail.com**
